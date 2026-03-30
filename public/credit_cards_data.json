@@ -1,0 +1,2096 @@
+{
+  "fetchTime": "2026-03-30T23:22:02.376890",
+  "totalCards": 47,
+  "creditCards": [
+    {
+      "cardId": "C_uniopen",
+      "cardName": "uniopen聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_uniopen_MEH_6688.png",
+        "/content/dam/twrbo/images/creditcard/card/C_uniopen_MTH_6688.png"
+      ],
+      "cardFeature": [
+        "統一企業集團最高回饋11%",
+        "國外消費最高回饋11%",
+        "指定卡友日最優享買一送一"
+      ],
+      "cardFeatureHighlight": [
+        "統一企業集團最高回饋<span class='twrbc-text-highlight-bold'>11%</span>",
+        "國外消費最高回饋<span class='twrbc-text-highlight-bold'>11%</span>",
+        "指定卡友日最優享買一送一"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_uniopen.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=&Crd=C_uniopen",
+      "starRate": 5.0,
+      "shortIntro": "<p>消費回饋最高11%</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "行動支付",
+        "國外消費",
+        "網路購物",
+        "外送平台"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "旅遊保險",
+        "道路救援"
+      ]
+    },
+    {
+      "cardId": "C_LaLaport",
+      "cardName": "Mitsui Shopping Park LaLaport聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_LALAPORT_JEH_8133.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LALAPORT_ME1H_8133.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LALAPORT_VEH_8133.png"
+      ],
+      "cardFeature": [
+        "館內天天享免費停車2小時",
+        "JCB卡享海外訂閱2%優惠",
+        "館內指定品牌最高9折起"
+      ],
+      "cardFeatureHighlight": [
+        "館內天天享免費停車<span class='twrbc-text-highlight-bold'>2</span>小時",
+        "JCB卡享海外訂閱<span class='twrbc-text-highlight-bold'>2%</span>優惠",
+        "館內指定品牌最高<span class='twrbc-text-highlight-bold'>9</span>折起"
+      ],
+      "issueGroup": [
+        "Mastercard",
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LaLaport.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_LaLaport&CrdF=8133&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>天天享館內免費停車2小時</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "國外消費"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "中信點"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_CS",
+      "cardName": "遠東SOGO聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_CS_VEH_8156.png",
+        "/content/dam/twrbo/images/creditcard/card/C_CS_VTH_8156.png"
+      ],
+      "cardFeature": [
+        "店內筆筆3%回饋無上限",
+        "首次申辦享好禮多選一",
+        "店內餐飲最高10%回饋"
+      ],
+      "cardFeatureHighlight": [
+        "店內筆筆<span class='twrbc-text-highlight-bold'>3%</span>回饋無上限",
+        "首次申辦享好禮多選一",
+        "店內餐飲最高<span class='twrbc-text-highlight-bold'>10%</span>回饋"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CS.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=&Crd=C_CS",
+      "starRate": 5.0,
+      "shortIntro": "<p>店內消費3%回饋無上限</p>\r\n",
+      "rewardType": [
+        "生活量販",
+        "國外消費"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "中信點"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險",
+        "代駕優惠"
+      ]
+    },
+    {
+      "cardId": "C_LINEPay",
+      "cardName": "LINE Pay信用卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEBH_8721.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEBH_8720.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEBH_8722.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEBH_8723.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEBH_8724.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEBH_8725.png",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEH_8710.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEH_8711.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEH_8712.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEH_8713.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_VEH_8714.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_JEH_8710.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_JEH_8711.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_JEH_8712.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_JEH_8713.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_LINEPay_JEH_8714.jpg"
+      ],
+      "cardFeature": [
+        "最高享16%回饋 天天回饋無上限",
+        "國外實體商店消費最高2.8%回饋(限信用卡)",
+        "多款卡面隨心任選"
+      ],
+      "cardFeatureHighlight": [
+        "最高享<span class='twrbc-text-highlight-bold'> 16% </span>回饋 天天回饋無上限",
+        "國外實體商店消費最高<span class='twrbc-text-highlight-bold'> 2.8% </span>回饋(限信用卡)",
+        "多款卡面隨心任選"
+      ],
+      "issueGroup": [
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A02&Crd=C_LINEPay&Fac=&Brnd=&Grnd=&CrdF=8715&Lmt=0&Chnl=&Emp=&Unit=&SPC=&Seed=8715W0008",
+      "starRate": 5.0,
+      "shortIntro": "<p>最高享LINE Points 16%回饋</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "行動支付",
+        "國外消費",
+        "訂閱/遊戲",
+        "網路購物"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物",
+        "交通/加油",
+        "電信",
+        "電影/運動",
+        "藝文公益",
+        "保險/分期",
+        "繳稅/繳費"
+      ],
+      "smartChoose": [
+        "LINE POINTS"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_CAL",
+      "cardName": "中華航空聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_CAL_8538_VTBH_00.png",
+        "/content/dam/twrbo/images/creditcard/card/C_CAL_8538_VTBH_01.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CAL_8539_VTBH_00.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CAL_8539_VTBH_01.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CAL_8538_VEBH_00.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CAL_8538_VEBH_01.jpg"
+      ],
+      "cardFeature": [
+        "生日當月消費最優 NT6 元回饋 1 哩",
+        "晉升華航華夏金卡會籍最優2年",
+        "全球航線機票86折起"
+      ],
+      "cardFeatureHighlight": [
+        "生日當月消費最優<span class='twrbc-text-highlight-bold'> NT6 </span>元回饋 1 哩",
+        "晉升華航華夏金卡會籍最優<span class='twrbc-text-highlight-bold'> 2年 </span>",
+        "全球航線機票<span class='twrbc-text-highlight-bold'> 86 </span>折起"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CAL.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A04&Crd=C_CAL&CrdF=&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>刷新 飛的自由度</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "行動支付",
+        "國外消費"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "交通/加油"
+      ],
+      "smartChoose": [
+        "里程",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "優先登機",
+        "道路救援",
+        "旅遊保險",
+        "代駕優惠"
+      ]
+    },
+    {
+      "cardId": "C_CPC",
+      "cardName": "中油聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_CPC_VEH_8515.png"
+      ],
+      "cardFeature": [
+        "紅利點數最高3倍回饋",
+        "綁定中油Pay加油消費累積雙點數",
+        "綁定中油Pay期間免年費"
+      ],
+      "cardFeatureHighlight": [
+        "紅利點數最高<span class='twrbc-text-highlight-bold'> 3倍 </span>回饋",
+        "綁定中油Pay加油消費累積雙點數",
+        "綁定中油Pay期間免年費"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CPC.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A04&Crd=C_CPC&CrdF=8515&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>綁定中油PAY加油「省」組合</p>\r\n",
+      "rewardType": [
+        "行動支付"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "交通/加油"
+      ],
+      "smartChoose": [
+        "紅利",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Top_F",
+      "cardName": "財管鼎鑽卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_TOP_MTFTWD_0000.png"
+      ],
+      "cardFeature": [
+        "國外消費最高3%現金回饋無上限",
+        "持卡年消滿額，最高6次交通禮遇",
+        "全球指定高奢酒店延後退房等禮遇"
+      ],
+      "cardFeatureHighlight": [
+        "國外消費最高<span class='twrbc-text-highlight-bold'> 3%</span>現金回饋無上限",
+        "持卡年消滿額，最高<span class='twrbc-text-highlight-bold'> 6次</span>交通禮遇",
+        "全球指定高奢酒店延後退房等禮遇"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Top_F.html",
+      "applyLink": "",
+      "starRate": 5.0,
+      "shortIntro": "<p>年度消費滿額加贈２次交通禮遇</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "國外消費"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物",
+        "雙幣"
+      ],
+      "smartChoose": [
+        "現金"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Top",
+      "cardName": "中信鼎極卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_CTBC_VTH_0000.png",
+        "/content/dam/twrbo/images/creditcard/card/B_CTBC_MTH_0000.png",
+        "/content/dam/twrbo/images/creditcard/card/B_CTBC_JTH_0000.png"
+      ],
+      "cardFeature": [
+        "無限卡/極緻卡：國內消費紅利點數3倍回饋，國外消費紅利點數5倍回饋(含原本1倍)",
+        "世界卡：國內消費0.8%現金回饋，國外消費1.2%現金回饋"
+      ],
+      "cardFeatureHighlight": [
+        "無限卡/極緻卡：國內消費紅利點數<span class='twrbc-text-highlight-bold'> 3倍 </span>回饋，國外消費紅利點數<span class='twrbc-text-highlight-bold'> 5倍 </span>回饋(含原本1倍)",
+        "世界卡：國內消費<span class='twrbc-text-highlight-bold'> 0.8% </span>現金回饋，國外消費<span class='twrbc-text-highlight-bold'> 1.2% </span>現金回饋"
+      ],
+      "issueGroup": [
+        "Mastercard",
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Top.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A01&Crd=B_Top&CrdF=0000&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>無限尊寵 頂級款待</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "國外消費"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "雙幣"
+      ],
+      "smartChoose": [
+        "現金",
+        "紅利"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險",
+        "代駕優惠"
+      ]
+    },
+    {
+      "cardId": "B_EP_Titanium",
+      "cardName": "中信商旅鈦金卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_EP_Titanium_MEH_7060.png"
+      ],
+      "cardFeature": [
+        "國內外一般消費回饋1.0%",
+        "國外實體商店消費最高2.5%"
+      ],
+      "cardFeatureHighlight": [
+        "國內外一般消費回饋<span class='twrbc-text-highlight-bold'> 1.0% </span>",
+        "國外實體商店消費最高<span class='twrbc-text-highlight-bold'> 2.5% </span>"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_EP_Titanium.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A01&Crd=B_EP_Titanium&Fac=&Brnd=&Grnd=&CrdF=7060&Lmt=0&Chnl=&Emp=&Unit=&SPC=&Seed=7060W0001&cttrace=1&ctid=z00015256_20220314&utm_campaign=z00015256_20220314&ctsource=twrbo_link&utm_source=twrbo_link&ctchannel=twrbo_link&utm_medium=twrbo_link",
+      "starRate": 5.0,
+      "shortIntro": "<p>最高2.5%現金回饋無上限</p>\r\n",
+      "rewardType": [
+        "行動支付",
+        "國外消費"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "繳稅/繳費"
+      ],
+      "smartChoose": [
+        "現金"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_HAE",
+      "cardName": "寰遊美國運通卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_HAE_AGH_8116.png"
+      ],
+      "cardFeature": [
+        "保險消費享1.68%現金回饋",
+        "量販超市、餐廳消費享1%現金回饋",
+        "其他產業及國外消費享0.6%現金回饋"
+      ],
+      "cardFeatureHighlight": [
+        "保險消費享<span class='twrbc-text-highlight-bold'> 1.68% </span>現金回饋",
+        "量販超市、餐廳消費享<span class='twrbc-text-highlight-bold'> 1% </span>現金回饋",
+        "其他產業及國外消費享<span class='twrbc-text-highlight-bold'> 0.6% </span>現金回饋"
+      ],
+      "issueGroup": [
+        "AE"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_HAE.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A01&Crd=B_HAE&CrdF=8116&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>保險享現金回饋1.68%</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "保險/分期"
+      ],
+      "smartChoose": [
+        "現金"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Bounspoint_Signature",
+      "cardName": "中信紅利御璽卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_VEH_7010.png"
+      ],
+      "cardFeature": [
+        "自選消費族群享3倍紅利無限累積(含原本1倍)",
+        "首年免年費"
+      ],
+      "cardFeatureHighlight": [
+        "自選消費族群享<span class='twrbc-text-highlight-bold'> 3倍 </span>紅利無限累積(含原本1倍)",
+        "首年免年費"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Bounspoint_Signature.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A01&Crd=B_Bounspoint_Signature&CrdF=7010&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>3倍紅利無限累積</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "國外消費",
+        "網路購物"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物",
+        "交通/加油",
+        "雙幣"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_FP",
+      "cardName": "foodpanda聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_FP_VEH_8822.png",
+        "/content/dam/twrbo/images/creditcard/card/C_FP_VEH_8823.png",
+        "/content/dam/twrbo/images/creditcard/card/C_FP_VEH_8824.png",
+        "/content/dam/twrbo/images/creditcard/card/C_FP_VEH_8825.png",
+        "/content/dam/twrbo/images/creditcard/card/C_FP_VEH_8826.png",
+        "/content/dam/twrbo/images/creditcard/card/C_FP_VEH_8827.png"
+      ],
+      "cardFeature": [
+        "2026/6/30前foodpanda平台胖達幣回饋最高30%",
+        " 申辦滿額送pandapro一個月"
+      ],
+      "cardFeatureHighlight": [
+        "2026/6/30前foodpanda平台胖達幣回饋最高<span class='twrbc-text-highlight-bold'> 30% </span>",
+        " 申辦滿額送pandapro一個月"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_FP.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=&Crd=C_FP&CrdF=&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>foodpanda平台加碼回饋</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "訂閱/遊戲",
+        "外送平台"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_TAIPEI101",
+      "cardName": "TAIPEI 101聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_TAIPEI101_VTH_8128.png",
+        "/content/dam/twrbo/images/creditcard/card/C_TAIPEI101_VEH_8128.png"
+      ],
+      "cardFeature": [
+        "台北101館內最高享3%回饋無上限",
+        "最高享4小時信義區免費停車禮遇",
+        "台北101觀景台門票9折優惠"
+      ],
+      "cardFeatureHighlight": [
+        "台北101館內最高享<span class='twrbc-text-highlight-bold'> 3% </span>回饋無上限",
+        "最高享<span class='twrbc-text-highlight-bold'> 4小時 </span>信義區免費停車禮遇",
+        "台北101觀景台門票<span class='twrbc-text-highlight-bold'>9折</span>優惠"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_TAIPEI101.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_TAIPEI101&CrdF=8128&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>館內消費最高3%回饋無上限</p>\r\n",
+      "rewardType": [
+        "餐飲美食"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "現金",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援"
+      ]
+    },
+    {
+      "cardId": "C_AllMe",
+      "cardName": "ALL ME卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_AllMe_MEH_8788.png"
+      ],
+      "cardFeature": [
+        "國內外一般消費回饋1%，無上限",
+        "國外實體商店消費回饋最高2.2%，無上限",
+        "指定通路最高3%回饋"
+      ],
+      "cardFeatureHighlight": [
+        "國內外一般消費回饋<span class='twrbc-text-highlight-bold'> 1% </span>，無上限",
+        "國外實體商店消費回饋最高<span class='twrbc-text-highlight-bold'> 2.2% </span>，無上限",
+        "指定通路最高<span class='twrbc-text-highlight-bold'> 3% </span>回饋"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_AllMe.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A02&Crd=C_AllMe&CrdF=8788&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>隨想即變 率性由我</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "行動支付",
+        "國外消費",
+        "網路購物"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物",
+        "電信"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_Agoda",
+      "cardName": "Agoda聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Agoda_VEBH_8031.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Agoda_VEBH_8032.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Agoda_VEBH_8033.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Agoda_VEBH_8034.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Agoda_VEBH_8035.png"
+      ],
+      "cardFeature": [
+        "Agoda全球訂房最高優惠10%",
+        "生日訂房・加碼送金6%"
+      ],
+      "cardFeatureHighlight": [
+        "AgodaAgoda全球訂房最高優惠<span class='twrbc-text-highlight-bold'>10%</span>",
+        "生日訂房・加碼送金<span class='twrbc-text-highlight-bold'>6%</span>"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_Agoda.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A02&Crd=C_Agoda&CrdF=8031&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 5.0,
+      "shortIntro": "<p>直升白金會員，指定訂房最高優惠40%</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "國外消費"
+      ],
+      "cardType": [
+        "數位生活",
+        "飛航交通",
+        "休閒運動"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "交通/加油"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_LOL",
+      "cardName": "英雄聯盟信用卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_LOL_MEH_6806.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "國內外一般消費1%、 國外實體商店消費最高2.5%"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "國內外一般消費<span class='twrbc-text-highlight-bold'> 1%</span>、 國外實體商店消費最高<span class='twrbc-text-highlight-bold'> 2.5% </span>"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html",
+      "applyLink": "",
+      "starRate": 5.0,
+      "shortIntro": "<p>指定通路最高3%</p>\r\n",
+      "rewardType": [
+        "國外消費",
+        "訂閱/遊戲",
+        "網路購物"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "交通/加油",
+        "藝文公益",
+        "保險/分期"
+      ],
+      "smartChoose": [
+        "現金"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_HOTAI",
+      "cardName": "和泰聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Hotai_VEH_8687.png"
+      ],
+      "cardFeature": [
+        "國內消費1%回饋無上限，指定通路最高10%",
+        "Lexus、TOYOTA購車享全額0.6%回饋無上限",
+        "加油、量販、旅遊、國外消費享2%回饋"
+      ],
+      "cardFeatureHighlight": [
+        "國內消費1%回饋無上限，指定通路最高<span class='twrbc-text-highlight-bold'> 10% </span>",
+        "Lexus、TOYOTA購車享全額<span class='twrbc-text-highlight-bold'> 0.6% </span>回饋無上限",
+        "加油、量販、旅遊、國外消費享<span class='twrbc-text-highlight-bold'> 2% </span>回饋"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_HOTAI.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A04&Crd=C_HOTAI&CrdF=8687&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=8687W9000",
+      "starRate": 5.0,
+      "shortIntro": "<p>購車神卡，全額回饋1%無上限</p>\r\n",
+      "rewardType": [
+        "生活量販",
+        "行動支付",
+        "國外消費"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物",
+        "交通/加油",
+        "繳稅/繳費"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險",
+        "代駕優惠"
+      ]
+    },
+    {
+      "cardId": "C_Yahoo",
+      "cardName": "Yahoo聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Yahoo_MEH_7606.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Yahoo_MEH_7607.png"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "Yahoo購物中心消費享最高6%回饋"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "Yahoo購物中心消費享最高<span class='twrbc-text-highlight-bold'> 6% </span>回饋"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_Yahoo.html",
+      "applyLink": "",
+      "starRate": 4.5,
+      "shortIntro": "<p>Yahoo刷卡樂 ‧ 最高6%超給利</p>\r\n",
+      "rewardType": [
+        "網路購物"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Bounspoint_Precious",
+      "cardName": "中信紅利晶緻卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_JEH_7010.png"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "自選消費族群享3倍紅利無限累積(含原本1倍)",
+        "首年免年費"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "自選消費族群享<span class='twrbc-text-highlight-bold'> 3倍 </span>紅利無限累積(含原本1倍)",
+        "首年免年費"
+      ],
+      "issueGroup": [
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Bounspoint_Precious.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>3倍紅利無限累積</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "國外消費",
+        "網路購物"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物",
+        "交通/加油",
+        "雙幣"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Cashback_Signature",
+      "cardName": "中信現金回饋御璽卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Cashback_Signature_VEH_7000.png"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "國內消費享0.5%回饋",
+        "國內月消費滿額，國外消費最高享2.5%回饋",
+        "首年免年費"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "國內消費享<span class='twrbc-text-highlight-bold'> 0.5% </span>回饋",
+        "國內月消費滿額，國外消費最高享<span class='twrbc-text-highlight-bold'> 2.5% </span>回饋",
+        "首年免年費"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Cashback_Signature.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>國外最高享2.5%回饋</p>\r\n",
+      "rewardType": [
+        "國外消費"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "飛航旅遊"
+      ],
+      "smartChoose": [
+        "現金"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Cashback_Titanium",
+      "cardName": "中信現金回饋鈦金卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Cashback_Titanium_MEH_7000.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "國內消費享0.5%回饋",
+        "國內月消費滿額，國外消費最高享2.5%回饋"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "國內消費享<span class='twrbc-text-highlight-bold'> 0.5% </span>回饋",
+        "國內月消費滿額，國外消費最高享<span class='twrbc-text-highlight-bold'> 2.5% </span>回饋"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Cashback_Titanium.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>海外最高享2.5%回饋</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "B_Bounspoint",
+      "cardName": "中信紅利卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_VPH_5000.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_VCH_5000.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_MPH_5000.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_MCH_5000.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_JPH_5000.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_Bounspoint_JCH_5000.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "天天享2倍紅利無限累積(含原本1倍)"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "天天享<span class='twrbc-text-highlight-bold'> 2倍 </span>紅利無限累積(含原本1倍)"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Bounspoint.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>2倍紅利無限累積</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "B_iPlan",
+      "cardName": "iPlan卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_iPlan_VPH_0000.png",
+        "/content/dam/twrbo/images/creditcard/card/B_iPlan_VCH_0000.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "當月帳單消費金額自動分3期0利率",
+        "不限國內外保險公司，保險消費自動分6期0利率"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "當月帳單消費金額自動分 3期<span class='twrbc-text-highlight-bold'> 0利率 </span>",
+        "不限國內外保險公司，保險消費自動分6期<span class='twrbc-text-highlight-bold'> 0利率 </span>"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_iPlan.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>自動分3期0利率</p>\r\n",
+      "rewardType": [
+        "生活量販",
+        "國外消費",
+        "網路購物"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "保險/分期"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_SLV",
+      "cardName": "Super Life VISA卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_SuperLive_VPH_0000.jpg"
+      ],
+      "cardFeature": [
+        "本產品Super Life VISA卡，僅提供特定客戶持有，暫不開放申請"
+      ],
+      "cardFeatureHighlight": [
+        "僅提供特定客戶持有，暫不開放申請"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_SLV.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>精采生活 如影隨行</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_ANA",
+      "cardName": "ANA聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_ANA_JTH_8530.png",
+        "/content/dam/twrbo/images/creditcard/card/C_ANA_VTH_8530.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_ANA_JEH_8530.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_ANA_VEBH_8533.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_ANA_JPH_8530.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_ANA_VEH_8533.jpg"
+      ],
+      "cardFeature": [
+        "新卡首刷最高享13,000哩",
+        "國外實體消費最高享NT10元=1哩",
+        "搭飛機累積哩程最高加碼50%回饋"
+      ],
+      "cardFeatureHighlight": [
+        "新卡首刷最高享<span class='twrbc-text-highlight-bold'> 13,000哩 </span>",
+        "國外實體消費最高享<span class='twrbc-text-highlight-bold'> NT10元=1哩 </span>",
+        "搭飛機累積哩程最高加碼<span class='twrbc-text-highlight-bold'> 50% </span>回饋"
+      ],
+      "issueGroup": [
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_ANA.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A04&Crd=C_ANA&CrdF=8530&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=8530W0002",
+      "starRate": 4.0,
+      "shortIntro": "<p>消費累積哩程 翱遊無限星空</p>\r\n",
+      "rewardType": [
+        "國外消費"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "交通/加油"
+      ],
+      "smartChoose": [
+        "里程",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "優先登機",
+        "道路救援",
+        "旅遊保險",
+        "代駕優惠"
+      ]
+    },
+    {
+      "cardId": "C_Brother",
+      "cardName": "中信兄弟聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Brother_MTH_3800.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Brother_MEH_3800.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_Brother_MPH_3800.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_Brother_VTH_3800.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_Brother_VEH_3800.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_Brother_VPH_3800.jpg"
+      ],
+      "cardFeature": [
+        "中信兄弟主場門票最低6折起",
+        "中信兄弟商品享9折優惠",
+        "消費每NT10元累積1點超象點"
+      ],
+      "cardFeatureHighlight": [
+        "中信兄弟主場門票最高<span class='twrbc-text-highlight-bold'>6</span折起",
+        "中信兄弟商品享<span class='twrbc-text-highlight-bold'>9</span>折優惠",
+        "消費每NT<span class='twrbc-text-highlight-bold'>10</span>元累積<span class='twrbc-text-highlight-bold'>1</span>點超象點"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_Brothers.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=&Crd=C_Brother&CrdF=&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>經濟美學‧享樂生活</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "網路購物"
+      ],
+      "cardType": [
+        "休閒運動"
+      ],
+      "shopType": [
+        "百貨購物",
+        "電影/運動",
+        "藝文公益"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_GCC",
+      "cardName": "大中華攜手飛聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_GCC_VTH_8531.png",
+        "/content/dam/twrbo/images/creditcard/card/C_GCC_VEBH_8532.png",
+        "/content/dam/twrbo/images/creditcard/card/C_GCC_VEH_8531.png"
+      ],
+      "cardFeature": [
+        "國外消費最優NT11元回饋1哩",
+        "5,000哩起兌換免費機票",
+        "五星餐飲買一送一"
+      ],
+      "cardFeatureHighlight": [
+        "國外消費最優<span class='twrbc-text-highlight-bold'> NT11元 </span>回饋1哩",
+        "<span class='twrbc-text-highlight-bold'> 5,000哩 </span>起兌換免費機票",
+        "五星餐飲買一送一"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_GCC.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A04&Crd=C_GCC&CrdF=8531&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 4.0,
+      "shortIntro": "<p>怎麼飛都有利</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "國外消費"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊"
+      ],
+      "smartChoose": [
+        "里程",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_LEXUS",
+      "cardName": "LEXUS聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_LEXUS_MTH_8537.png"
+      ],
+      "cardFeature": [
+        "限LEXUS車主申辦",
+        "紅利點數最高5倍回饋",
+        "市區停車免費天天最高享4小時"
+      ],
+      "cardFeatureHighlight": [
+        "限LEXUS車主申辦",
+        "紅利點數最高 <span class='twrbc-text-highlight-bold'>5倍 </span>回饋",
+        "市區停車免費天天最高享 <span class='twrbc-text-highlight-bold'>4小時 </span>"
+      ],
+      "issueGroup": [
+        "Mastercard"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LEXUS.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A04&Crd=C_LEXUS&CrdF=8537&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>車主專享　悠遊行動生活</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "行動支付",
+        "國外消費"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "交通/加油",
+        "電影/運動"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險",
+        "代駕優惠"
+      ]
+    },
+    {
+      "cardId": "B_EC",
+      "cardName": "中信商務卡/雙幣商務卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Business_VEH_7050.png"
+      ],
+      "cardFeature": [
+        "※中信商務卡已停止申辦，雙幣卡僅接受紙本申辦",
+        "國外實體商店消費享現金回饋2.88%，回饋無上限 (國外非實體消費享1%)",
+        "國內消費累積滿額兌換哩程、刷卡金、飯店住宿等好禮"
+      ],
+      "cardFeatureHighlight": [
+        "※中信商務卡已停止申辦，雙幣卡僅接受紙本申辦",
+        "國外實體商店消費享現金回饋 <span class='twrbc-text-highlight-bold'>2.88% </span>，回饋無上限 (國外非實體消費享1%)",
+        "國內消費累積滿額兌換哩程、刷卡金、飯店住宿等好禮"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_EC.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>飛行必備　盡享優惠</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "行動支付",
+        "國外消費",
+        "網路購物"
+      ],
+      "cardType": [
+        "飛航交通"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "交通/加油",
+        "雙幣"
+      ],
+      "smartChoose": [
+        "現金",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_CCF",
+      "cardName": "家扶認同卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_CCF_VEH_8002.png"
+      ],
+      "cardFeature": [
+        "快樂做公益 享年費優惠",
+        "一般交易消費公益回饋",
+        "代扣認養費及定期捐助款"
+      ],
+      "cardFeatureHighlight": [
+        "快樂做公益 享年費優惠",
+        "一般交易消費公益回饋",
+        "代扣認養費及定期捐助款"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CCF.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A06&Crd=C_CCF&CrdF=8002&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>0.5%回饋金捐家扶</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "公益回饋"
+      ],
+      "shopType": [
+        "藝文公益"
+      ],
+      "smartChoose": [
+        "捐款"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_CHT",
+      "cardName": "中華電信聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_CHT_VEH_8700.png"
+      ],
+      "cardFeature": [
+        "指定通路消費最高3%",
+        "代扣中華電信費享2%",
+        "Hami Point 1點=1元 超好用"
+      ],
+      "cardFeatureHighlight": [
+        "指定通路消費最高<span class='twrbc-text-highlight-bold'>3%</span>",
+        "代扣中華電信費享<span class='twrbc-text-highlight-bold'>2%</span>",
+        "Hami Point <span class='twrbc-text-highlight-bold'>1點</span> = <span class='twrbc-text-highlight-bold'>1元</span> 超好用"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CHT.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A02&Crd=C_CHT&CrdF=8700&Lmt=0&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 4.0,
+      "shortIntro": "<p>每千點折百元電信費</p>\r\n",
+      "rewardType": [
+        "行動支付",
+        "國外消費",
+        "訂閱/遊戲",
+        "網路購物"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "電信",
+        "保險/分期"
+      ],
+      "smartChoose": [
+        "紅利",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "市區停車",
+        "機場接送",
+        "機場停車",
+        "機場貴賓室",
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_HanShin",
+      "cardName": "漢神聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_HanShin_VTH_8101.png",
+        "/content/dam/twrbo/images/creditcard/card/C_HanShin_VEH_8101.png",
+        "/content/dam/twrbo/images/creditcard/card/C_HanShin_MTH_8101.png",
+        "/content/dam/twrbo/images/creditcard/card/C_HanShin_JEH_8101.png"
+      ],
+      "cardFeature": [
+        "購物享9折/平假日最高4小時免費停車",
+        "館內指定餐飲滿額最高享10%回饋",
+        "一卡雙回饋 同享尊寵禮遇"
+      ],
+      "cardFeatureHighlight": [
+        "購物享 <span class='twrbc-text-highlight-bold'>9折</span> /平假日最高 <span class='twrbc-text-highlight-bold'>4小時</span> 免費停車",
+        "館內指定餐飲滿額最高享<span class='twrbc-text-highlight-bold'>10%</span>回饋",
+        "一卡雙回饋 同享尊寵禮遇"
+      ],
+      "issueGroup": [
+        "Mastercard",
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_HanShin.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_HanShin&CrdF=8101&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>享會員卡雙重回饋</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "現金",
+        "紅利"
+      ],
+      "extraFunction": [
+        "機場接送",
+        "機場貴賓室",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_Globalmall",
+      "cardName": "Global Mall聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Globalmall_VEH_8118.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Globalmall_VTH_8118.png"
+      ],
+      "cardFeature": [
+        "不分平假日享館內停車優惠",
+        "館內影城購票享66折起優惠",
+        "館內指定商店享9折起優惠"
+      ],
+      "cardFeatureHighlight": [
+        "不分平假日享館內停車優惠",
+        "館內影城購票享 <span class='twrbc-text-highlight-bold'>66折</span> 起優惠",
+        "館內指定商店享 <span class='twrbc-text-highlight-bold'>9折</span> 起優惠"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_Globalmall.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_Globalmall&CrdF=8118&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.0,
+      "shortIntro": "<p>信用卡、會員卡二卡合一  雙重回饋</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "行動支付"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_SHOWTIME",
+      "cardName": "秀泰聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_SHOWTIME_JEH_8117.png"
+      ],
+      "cardFeature": [
+        "秀泰影城現場購票2D電影，享平日最高6折、 假日8折起",
+        "秀泰生活天天享當日1小時免費停車",
+        "秀泰生活館內指定商店、餐廳享優惠88折起"
+      ],
+      "cardFeatureHighlight": [
+        "秀泰影城現場購票2D電影，享平日最高 <span class='twrbc-text-highlight-bold'>6折</span> 、假日 <span class='twrbc-text-highlight-bold'>8折</span> 起",
+        "秀泰生活天天享當日 <span class='twrbc-text-highlight-bold'>1小時</span> 免費停車",
+        "秀泰生活館內指定商店、餐廳享優惠 <span class='twrbc-text-highlight-bold'>88折</span> 起"
+      ],
+      "issueGroup": [
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_SHOWTIME.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_SHOWTIME&CrdF=8117&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>秀泰影城看電影天天8折起</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販",
+        "行動支付"
+      ],
+      "cardType": [
+        "百貨購物",
+        "休閒運動"
+      ],
+      "shopType": [
+        "百貨購物",
+        "電影/運動"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_DayehTakashimaya",
+      "cardName": "大葉高島屋百貨聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_DayehTakashimaya_JEH_8100.png"
+      ],
+      "cardFeature": [
+        "日本旅遊，指定通路最高10%回饋(需登錄)",
+        "購物9~95折優惠",
+        "天天免費停車",
+        "一卡雙回饋 同享玫瑰寶寶卡點數"
+      ],
+      "cardFeatureHighlight": [
+        "購物 <span class='twrbc-text-highlight-bold'>9~95折</span> 優惠",
+        "天天免費停車",
+        "一卡雙回饋 同享玫瑰寶寶卡點數"
+      ],
+      "issueGroup": [
+        "Mastercard",
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_DayehTakashimaya.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_DayehTakashimaya&CrdF=8100&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>享一卡雙重回饋</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_TSDreamMall",
+      "cardName": "南紡購物中心聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_TSDreamMall_VTH_8113.png",
+        "/content/dam/twrbo/images/creditcard/card/C_TSDreamMall_VEH_8113.png"
+      ],
+      "cardFeature": [
+        "購物停車天天享禮遇",
+        "二卡合一雙重積點",
+        "購物、指定餐飲、美食街享優惠"
+      ],
+      "cardFeatureHighlight": [
+        "購物停車天天享禮遇",
+        "二卡合一雙重積點",
+        "購物、指定餐飲、美食街享優惠"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_TSDreamMall.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A03&Crd=C_TSDreamMall&CrdF=8113&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>發現。府城新美好</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_CMP",
+      "cardName": "勤美天地聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_CMP_VEH_8112.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CMP_VPH_8112.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CMP_JEH_8112.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_CMP_JPH_8112.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "雙重累積中信紅利點數及勤美會員點數",
+        "館內消費滿NT99元即享免費停車優惠"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "雙重累積中信紅利點數及勤美會員點數",
+        "館內消費滿 <span class='twrbc-text-highlight-bold'>NT99元</span> 即享免費停車優惠"
+      ],
+      "issueGroup": [
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CMP.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>同享晴天卡回饋</p>\r\n",
+      "rewardType": [
+        "餐飲美食",
+        "生活量販"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "紅利"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_MUJI",
+      "cardName": "無印良品聯名卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_MUJI_JEH_8110.png",
+        "/content/dam/twrbo/images/creditcard/card/C_MUJI_JPH_8110.png",
+        "/content/dam/twrbo/images/creditcard/card/C_MUJI_VEH_8110.png",
+        "/content/dam/twrbo/images/creditcard/card/C_MUJI_VPH_8110.png"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "JCB聯名卡享國外消費免手續費"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "JCB聯名卡享國外消費免手續費"
+      ],
+      "issueGroup": [
+        "VISA",
+        "JCB"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_MUJI.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>MUJI Dollar最高5%現金回饋</p>\r\n",
+      "rewardType": [
+        "生活量販",
+        "國外消費"
+      ],
+      "cardType": [
+        "百貨購物",
+        "休閒運動"
+      ],
+      "shopType": [
+        "飛航旅遊",
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "現金",
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_Paperwindmill",
+      "cardName": "紙風車認同卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Paperwindmill_VEH_8003.jpg",
+        "/content/dam/twrbo/images/creditcard/card/C_Paperwindmill_VPH_8003.jpg"
+      ],
+      "cardFeature": [
+        "培養孩子創意、美學與關懷的能力",
+        "提撥0.5%回饋金轉捐紙風車文教基金會",
+        "專屬卡友生日禮"
+      ],
+      "cardFeatureHighlight": [
+        "培養孩子創意、美學與關懷的能力",
+        "提撥 <span class='twrbc-text-highlight-bold'>0.5%</span> 回饋金轉捐紙風車文教基金會",
+        "專屬卡友生日禮"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_Paperwindmill.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A06&Crd=C_Paperwindmill&CrdF=8003&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>人人都是孩子的真英雄</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "公益回饋"
+      ],
+      "shopType": [
+        "藝文公益"
+      ],
+      "smartChoose": [
+        "捐款"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_Coolplay",
+      "cardName": "酷玩卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_CoolPlay_MEH_7302.png"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "馬來貘超萌獨家卡面",
+        "紅利回饋最高10倍無上限(含原本5倍)"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "馬來貘超萌獨家卡面",
+        "紅利回饋最高<span class='twrbc-text-highlight-bold'>10倍</span>無上限(含原本<span class='twrbc-text-highlight-bold'>5倍</span>)"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Coolplay.html",
+      "applyLink": "",
+      "starRate": 4.0,
+      "shortIntro": "<p>酷玩人生，10倍紅利無限累積</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "數位生活"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_Tzuchi",
+      "cardName": "慈濟蓮花卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_Tzuchi_VEH_8001.png",
+        "/content/dam/twrbo/images/creditcard/card/C_Tzuchi_MEH_8001.jpg"
+      ],
+      "cardFeature": [
+        "行善大愛的認同卡",
+        "提撥0.275%～0.5%回饋金轉捐慈濟基金會",
+        "活動期間免年費優惠"
+      ],
+      "cardFeatureHighlight": [
+        "行善大愛的認同卡",
+        "提撥 <span class='twrbc-text-highlight-bold'>0.275%～0.5%</span> 回饋金轉捐慈濟基金會",
+        "活動期間免年費優惠"
+      ],
+      "issueGroup": [
+        "Mastercard",
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_Tzuchi.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A06&Crd=C_Tzuchi&CrdF=8001&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>涓滴大愛 聚沙成塔</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "公益回饋"
+      ],
+      "shopType": [
+        "藝文公益"
+      ],
+      "smartChoose": [
+        "捐款"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_University",
+      "cardName": "東吳大學認同卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_SCU_VEH_8300.png"
+      ],
+      "cardFeature": [
+        "因為有您 東吳學子的未來更美好",
+        "提撥 0.2%～0.4%回饋金為東吳大學校務基金",
+        "東吳大學認同卡御璽卡享首年免年費優惠"
+      ],
+      "cardFeatureHighlight": [
+        "因為有您 東吳學子的未來更美好",
+        "提撥 <span class='twrbc-text-highlight-bold'> 0.2%～0.4%</span> 回饋金為東吳大學校務基金",
+        "東吳大學認同卡御璽卡享首年免年費優惠"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_University.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A06&Crd=C_University&CrdF=8300&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>消費回饋金捐學校</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "公益回饋"
+      ],
+      "shopType": [
+        "藝文公益"
+      ],
+      "smartChoose": [
+        "捐款"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "C_XUEXUE",
+      "cardName": "學學認同卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_XUEXUE_VEH_8005.png",
+        "/content/dam/twrbo/images/creditcard/card/C_XUEXUE_VPH_8005.jpg"
+      ],
+      "cardFeature": [
+        "分享美的感動給全台灣的孩子",
+        "提撥轉捐學學基金會",
+        "活動期間免年費優惠"
+      ],
+      "cardFeatureHighlight": [
+        "分享美的感動給全台灣的孩子",
+        "提撥轉捐學學基金會",
+        "活動期間免年費優惠"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_XUEXUE.html",
+      "applyLink": "/content/twrbo/zh_tw/onlinecounter_index/cc_service/cc_service_card_index/cc_service_card_apply.html?CrdTp=A06&Crd=C_XUEXUE&CrdF=8005&Lmt=&Chnl=&Emp=&Unit=&SPC=&Seed=",
+      "starRate": 3.5,
+      "shortIntro": "<p>分享美的感動 給全台灣的孩子</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "公益回饋"
+      ],
+      "shopType": [
+        "藝文公益"
+      ],
+      "smartChoose": [
+        "捐款"
+      ],
+      "extraFunction": [
+        "道路救援",
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "0000",
+      "cardName": "商旅卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_Cashback_Signature_VEH_7000.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_Cashback_Titanium_MEH_7000.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止發行",
+        "商旅御璽卡：自選消費族群享3倍紅利(含原本1倍)",
+        "商旅鈦金卡：不分消費級距現金回饋0.5%"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止發行",
+        "商旅御璽卡：自選消費族群享 <span class='twrbc-text-highlight-bold'>3倍 </span>紅利(含原本1倍)",
+        "商旅鈦金卡：不分消費級距現金回饋<span class='twrbc-text-highlight-bold'> 0.5%</span>"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_BT.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>海外旅遊最有保障</p>\r\n<p> </p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "B_IR",
+      "cardName": "分期紅利卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_IR_VCL_0000.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "分期消費享點數3倍(含原本1倍)"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "分期消費享點數 <span class='twrbc-text-highlight-bold'>3倍</span>(含原本 <span class='twrbc-text-highlight-bold'>1倍</span>)"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_IR.html",
+      "applyLink": "",
+      "starRate": 3.0,
+      "shortIntro": "<p>分期消費享點數3倍</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "經典中信"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    },
+    {
+      "cardId": "C_UPE",
+      "cardName": "統一企業認同卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/C_UPE_MEH_8619.png"
+      ],
+      "cardFeature": [
+        "本卡已停止申辦",
+        "OPENPOINT天天累積最高3%",
+        "即辦即用 一鍵綁卡指定錢包"
+      ],
+      "cardFeatureHighlight": [
+        "本卡已停止申辦",
+        "OPEN POINT天天累積最高 <span class='twrbc-text-highlight-bold'>3%</span>",
+        "即辦即用 一鍵綁卡指定錢包"
+      ],
+      "issueGroup": [
+        "VISA"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_UPE.html",
+      "applyLink": "",
+      "starRate": 4.0,
+      "shortIntro": "<p>僅限統一集團員工專屬申辦</p>\r\n",
+      "rewardType": [
+        "行動支付"
+      ],
+      "cardType": [
+        "百貨購物"
+      ],
+      "shopType": [
+        "百貨購物"
+      ],
+      "smartChoose": [
+        "專屬點數"
+      ],
+      "extraFunction": [
+        "旅遊保險"
+      ]
+    },
+    {
+      "cardId": "B_EL",
+      "cardName": "享想生活卡",
+      "cardImg": [
+        "/content/dam/twrbo/images/creditcard/card/B_EL_VEH_7501_01.jpg",
+        "/content/dam/twrbo/images/creditcard/card/B_EL_VEH_7501_02.jpg"
+      ],
+      "cardFeature": [
+        "※本卡已停止申辦",
+        "紅利回饋最高 10倍(含原本1倍) ，累積無上限",
+        "日本、韓國國外消費 0 手續費"
+      ],
+      "cardFeatureHighlight": [
+        "※本卡已停止申辦",
+        "紅利回饋最高 <span class='twrbc-text-highlight-bold'> 10 </span>倍(含原本1倍) ，累積無上限",
+        "日本、韓國國外消費<span class='twrbc-text-highlight-bold'> 0 </span>手續費"
+      ],
+      "issueGroup": [
+        "不顯示"
+      ],
+      "introLink": "/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_EL.html",
+      "applyLink": "",
+      "starRate": 3.5,
+      "shortIntro": "<p>經濟美學‧享樂生活</p>\r\n",
+      "rewardType": [
+        "不顯示"
+      ],
+      "cardType": [
+        "休閒運動"
+      ],
+      "shopType": [
+        "不顯示"
+      ],
+      "smartChoose": [
+        "不顯示"
+      ],
+      "extraFunction": [
+        "不顯示"
+      ]
+    }
+  ]
+}
